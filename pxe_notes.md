@@ -208,8 +208,3 @@ journalctl -xeu dhcpd
 journalctl -xeu tftp
 journalctl -xeu httpd
 ```
-
----
-
-Would you like me to include the **Kickstart file template** for **fully automated Rocky Linux installation** (with default partitioning, root password, and package selection)?
-That would make your PXE setup complete end-to-end.
