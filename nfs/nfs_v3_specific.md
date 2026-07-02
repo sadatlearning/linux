@@ -203,7 +203,7 @@ instead of `noac` (slightly better performance)
 
 ---
 
-## Final Summary (Plain English)
+## Summary
 
 > Mounting NFSv3 with `nolock,noac,sync` gives you **fresh metadata and safe writes**, but **zero protection against concurrent access**.
 > It is **not safe for shared writable workloads**, and performance will be poor.
